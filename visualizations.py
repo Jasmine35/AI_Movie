@@ -1,4 +1,5 @@
 # visualizations.py
+# Used to plot cosine similarity matrix and TF-IDF bar chart for each searched word in the movie recommender
 
 import matplotlib.pyplot as plt
 import seaborn as sns
